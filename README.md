@@ -35,9 +35,7 @@ Você pode me contatar através das seguintes redes sociais:
 - [LinkedIn](https://www.linkedin.com/in/gabriel-arruda-665464234/)
 - [WhatsApp](https://wa.me/5515981537286)
 - [GitHub](https://github.com/GabrielArrudaDev)
-- [Instagram](https://www.instagram.com/_arrud4)
-
-Sinta-se à vontade para explorar os projetos e entrar em contato comigo para qualquer feedback ou colaboração!
+- [Instagram](https://www.instagram.com/_arrud4_)
 
 ## OBSERVAÇÃO
 
