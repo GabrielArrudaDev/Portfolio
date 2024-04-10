@@ -38,3 +38,5 @@ Você pode me contatar através das seguintes redes sociais:
 - [Instagram](https://www.instagram.com/_arrud4)
 
 Sinta-se à vontade para explorar os projetos e entrar em contato comigo para qualquer feedback ou colaboração!
+
+**Observação:** Por favor, observe que os projetos listados acima são desenvolvidos por um iniciante em desenvolvimento web e podem não ser totalmente responsivos. Aprimoramentos e feedback são sempre bem-vindos!
