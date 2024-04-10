@@ -25,7 +25,7 @@ Este é o repositório que contém os projetos desenvolvidos por Gabriel Arruda,
 - **Link:** [Projeto Spotify Alura](https://github.com/GabrielArrudaDev/Imersao-Front-End-Alura)
 
 ### 6. Projeto CRUD de Agendamento para Barbearia
-- **Descrição:** Um sistema de gerenciamento de agendamentos para barbearias, permitindo a criação, leitura, atualização e exclusão de agendamentos.
+- **Descrição:** Um sistema de gerenciamento de agendamentos para barbearias, permitindo a criação, leitura, atualização e exclusão de agendamentos. Utilizando HTML, CSS, JavaScript e Bootstrap
 - **Link:** [Projeto CRUD de Agendamento para Barbearia](https://github.com/GabrielArrudaDev/Projeto-CRUD-Agendamento)
 
 ## Contato
